@@ -82,21 +82,35 @@ Press **Play** to unveil the background story, presented word by word, culminati
 
 ## System Requirements
 
+_**Windows**_
 - **Operating System**: Windows 10/11
 - **Processor**: 64-bit processor compatible
 - **Memory**: 4 GB RAM
 - **Graphics**: DirectX 12 support, NVIDIA GTX 960 4GB / AMD Radeon R9 280 or higher
 - **Storage**: At least 1 GB available space
 
+_**MacOS**_
+- **CPU**: Intel Core i5 or higher, M1 or higher
+- **RAM**: At least 4GB
+- **Storage**: At least 1 GB available space
+
 ## Installation Guide
 
-1. **Download**: Download the `Windows` or `Mac` installation package to your computer.
+_**Windows**_
+
+1. **Download**: Download the `Windows` installation package to your computer.
 2. **Extract**: Use a file compression tool to extract it to your preferred directory.
 3. **Environment Setup**: Ensure these environments are installed:
    - [Unity](https://unity3d.com/get-unity/download/archive)
    - [.NET Framework](https://dotnet.microsoft.com/download)
    - [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)
 4. **Play**: Navigate to `Lost_Treasure_Chest.exe` in the decompressed folder and double-click to start the game.
+
+_**MacOS**_
+
+1. **Download**: Download the `Mac.zip` file.
+2. **Extract**: Double click the `Mac.zip` to decompress the file, and get the game executable `Lost_Treasure_Chest.app`.
+3. **Setting & Play**: The system may indicate "Cannot open because Apple was unable to check if it contains malware." when running the game for the first time. Then you need to go to _`System Preferences Settings - Privacy & Security`_ , navigate to the _`Security`_ , and choose _`Still Open`_ to allow the system to open the game program. After doing this, double click the application file to run it again. At this point, the game program should be up and running successfully!
 
 ## Game Control
 
@@ -114,7 +128,12 @@ Press **Play** to unveil the background story, presented word by word, culminati
 
 ## Developer Information
 
-- **Developer**: Zhang, Zhijie 
+- **Developer**:<br> 
+`Zhang, Zhijie`<br> 
+`Guo, Yao`<br>
+`Li, Jiateng`<br>
+`He, Jiefang`<br>
+`Hu, Qiancheng`
 - **Contact**: zzha947@uwo.ca
 
 ## Acknowledgments
